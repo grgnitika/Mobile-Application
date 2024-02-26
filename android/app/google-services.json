@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139839214344",
+    "project_id": "mobileapp-ff6f9",
+    "storage_bucket": "mobileapp-ff6f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139839214344:android:56cfadee57952918ba92bd",
+        "android_client_info": {
+          "package_name": "com.iycreateapp.myhostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1g-V8hnL5c_bWivyNd-JLFDm8RKwsTTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
